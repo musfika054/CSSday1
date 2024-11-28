@@ -1,0 +1,26 @@
+h1 {
+    color: blueviolet;
+}
+
+#one {
+    color: deeppink;
+}
+
+.two {
+    color: rgb(11, 204, 140);
+}
+
+#three {
+    color: hotpink;
+    background-color: aqua;
+}
+
+
+#all {
+    background-color: bisque;
+}
+
+
+p {
+    font-size: larger;
+}
